@@ -1,7 +1,7 @@
-package com.smartinventory.backend.controller;
+package com.binbuddy.backend.controller;
 
-import com.smartinventory.backend.model.Product;
-import com.smartinventory.backend.repository.ProductRepository;
+import com.binbuddy.backend.model.Product;
+import com.binbuddy.backend.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.smartinventory.backend;
+package com.binbuddy.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

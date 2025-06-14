@@ -1,6 +1,6 @@
-package com.smartinventory.backend.repository;
+package com.binbuddy.backend.repository;
 
-import com.smartinventory.backend.model.Product;
+import com.binbuddy.backend.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
